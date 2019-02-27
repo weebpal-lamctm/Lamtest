@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+//diem sua noi dung nay
+
 namespace Calculator
 {
     public partial class Form1 : Form
